@@ -1,0 +1,10 @@
+a = 1
+read b
+c = 3
+D[x] = a+2*b%x
+print a
+print b
+print c
+print D[c]
+print 5*(a+2*b)
+print D[7]
